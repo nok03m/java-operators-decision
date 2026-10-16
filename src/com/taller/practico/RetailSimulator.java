@@ -1,3 +1,5 @@
+package com.taller.practico;
+
 import java.util.Scanner;
 
 public class RetailSimulator {
